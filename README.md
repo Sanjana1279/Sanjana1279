@@ -15,9 +15,17 @@
 
 ## 🌐 Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/sanjana-k-s-909366196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="mailto:sanjanaks.dev@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="email" height="30" width="30" /></a>
-</p>  
+<a href="https://www.linkedin.com/in/sanjana-k-s-909366196" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+<a href="mailto:sanjanakschandu@gmail.com" target="blank">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" height="30" width="30" />
+</a>
+<a href="https://leetcode.com/u/sanjana1279/" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="30" />
+</a>
+</p>
+ 
 
 ---
 
