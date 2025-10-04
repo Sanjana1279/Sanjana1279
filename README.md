@@ -57,9 +57,10 @@
 
 ## 📊 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Sanjana1279&show_icons=true&bg_color=F5F5DC&title_color=000000&text_color=000000&icon_color=8B4513" alt="sanjana stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjana1279&layout=compact&bg_color=F5F5DC&title_color=000000&text_color=000000" alt="top langs" />
+<img src="https://github-readme-stats.vercel.app/api?username=Sanjana1279&show_icons=true&bg_color=FAF9F6&title_color=000000&text_color=000000&icon_color=8B4513" alt="sanjana stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjana1279&layout=compact&bg_color=FAF9F6&title_color=000000&text_color=000000" alt="top langs" />
 </p>
+
 
 
 ---
