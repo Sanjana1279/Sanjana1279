@@ -26,16 +26,6 @@
 
 ---
 
-## 📌 Pinned Projects
-- [Spring-boot-global-exception-handling](https://github.com/Sanjana1279/Spring-boot-global-exception-handling) - Spring Boot project with centralized exception handling.  
-- [Spring-employees-csv](https://github.com/Sanjana1279/Spring-employees-csv) - Employee CRUD APIs + CSV export with Spring Batch.  
-- [Spring-Boot-CRUD-Application-with-H2-Database](https://github.com/Sanjana1279/Spring-Boot-CRUD-Application-with-H2-Database) - Simple CRUD APIs with H2 DB.  
-- [Spring-CRUD-H2-with-Second-Highest-Salary](https://github.com/Sanjana1279/Spring-CRUD-H2-with-Second-Highest-Salary) - CRUD APIs + custom endpoint for second highest salary.  
-- [employee-registration-using-spring-boot](https://github.com/Sanjana1279/employee-registration-using-spring-boot) - Employee Registration with Basic Auth + H2 DB.  
-- [java8--features-demo](https://github.com/Sanjana1279/java8--features-demo) - Java 8 features (Streams, Lambdas, DateTime API).  
-
----
-
 ## 📊 GitHub Stats
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=Sanjana1279&show_icons=true&theme=tokyonight" alt="sanjana stats" />
