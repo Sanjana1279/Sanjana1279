@@ -75,17 +75,3 @@
 - 🛠️ **Java & API Builder**  
 - 🚀 **Always Learning New Tech**
 
----
-
- 
-
-
-If you want, I can **combine everything we’ve done so far** into a **complete, polished README** for you with:
-
-* Intro & contact links
-* Languages & tools
-* Stats dashboard (views, streak, languages)
-* Off-white/brown theme
-
-Do you want me to do that?
-
