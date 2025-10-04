@@ -1,5 +1,5 @@
 # Hi 👋, I'm Sanjana K S  
-### 💻 Passionate Back-end Developer | Java | Spring Boot  | JavaScript
+### 💻 Passionate Back-end Developer | Java | Spring Boot | JavaScript  
 
 🔭 I’m currently working on **Spring Boot and ReactJS projects**.  
 
@@ -7,9 +7,10 @@
 
 💬 Ask me about **Java, Spring Boot, JPA, H2 Database, MySQL**.  
 
-📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/sanjana-k-s-909366196)**  
+📫 How to reach me: [Sanjana K S (LinkedIn)](https://www.linkedin.com/in/sanjana-k-s-909366196) | 📧 **sanjanakschandu@gmail.com**  
 
 📄 Know about my experiences: *[Resume Link — Coming Soon]*  
+
 
 ---
 
@@ -56,9 +57,10 @@
 
 ## 📊 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Sanjana1279&show_icons=true&theme=tokyonight" alt="sanjana stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjana1279&layout=compact&theme=tokyonight" alt="top langs" />
+<img src="https://github-readme-stats.vercel.app/api?username=Sanjana1279&show_icons=true&bg_color=F5F5DC&title_color=000000&text_color=000000&icon_color=8B4513" alt="sanjana stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjana1279&layout=compact&bg_color=F5F5DC&title_color=000000&text_color=000000" alt="top langs" />
 </p>
+
 
 ---
 
