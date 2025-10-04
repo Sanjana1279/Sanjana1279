@@ -85,7 +85,6 @@ Here’s a **setup you can use**:
 
 ### 1️⃣ Profile Views Badge (Total Views)
 
-```markdown
 ![Profile Views](https://komarev.com/ghpvc/?username=Sanjana1279&color=8B4513&style=flat)
 ```
 
@@ -96,7 +95,7 @@ Here’s a **setup you can use**:
 
 ### 2️⃣ GitHub Stats Card (Commits, PRs, Repos)
 
-```markdown
+
 <img src="https://github-readme-stats.vercel.app/api?username=Sanjana1279&show_icons=true&bg_color=FAF9F6&title_color=000000&text_color=000000&icon_color=8B4513" alt="Sanjana's GitHub Stats" />
 ```
 
@@ -107,7 +106,7 @@ Here’s a **setup you can use**:
 
 ### 3️⃣ Streak Stats Card (Current Streak, Total Contributions)
 
-```markdown
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjana1279&background=FAF9F6&ring=8B4513&fire=8B4513&currStreakLabel=000000&sideLabels=000000&dates=000000&stroke=000000" alt="Sanjana1279 Streak Stats" />
 ```
 
@@ -118,7 +117,7 @@ Here’s a **setup you can use**:
 
 ### 4️⃣ Top Languages Card
 
-```markdown
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjana1279&layout=compact&bg_color=FAF9F6&title_color=000000&text_color=000000" alt="Top Languages" />
 ```
 
