@@ -61,6 +61,10 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjana1279&layout=compact&bg_color=FAF9F6&title_color=000000&text_color=000000" alt="top langs" />
 </p>
 
+---
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjana1279&background=FAF9F6&ring=8B4513&fire=8B4513&currStreakLabel=000000&sideLabels=000000&dates=000000&stroke=000000" alt="Sanjana1279 Streak Stats" />
+</p>
 
 
 ---
