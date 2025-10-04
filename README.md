@@ -1,5 +1,5 @@
 # Hi 👋, I'm Sanjana K S  
-### Passionate Back-end Developer | Java | Spring Boot  
+### Passionate Back-end Developer | Java | Spring Boot  | JavaScript
 
 🔭 I’m currently working on **Spring Boot projects** with CRUD operations, Exception Handling, and CSV Export features.  
 
