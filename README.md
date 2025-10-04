@@ -1,6 +1,8 @@
 # Hi 👋, I'm Sanjana K S  
 ### 💻 Passionate Back-end Developer | Java | Spring Boot | JavaScript  
 
+![Profile Views](https://komarev.com/ghpvc/?username=Sanjana1279&color=8B4513&style=flat)
+
 🔭 I’m currently working on **Spring Boot and ReactJS projects**.  
 
 🌱 I’m currently learning **Spring Security, JWT, and Microservices architecture**.  
