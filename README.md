@@ -86,7 +86,7 @@ Here’s a **setup you can use**:
 ### 1️⃣ Profile Views Badge (Total Views)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sanjana1279&color=8B4513&style=flat)
-```
+
 
 * Shows total views (live update).
 * Color `8B4513` matches your theme.
@@ -108,7 +108,7 @@ Here’s a **setup you can use**:
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjana1279&background=FAF9F6&ring=8B4513&fire=8B4513&currStreakLabel=000000&sideLabels=000000&dates=000000&stroke=000000" alt="Sanjana1279 Streak Stats" />
-```
+
 
 * Shows current streak, longest streak, total contributions.
 * Left-aligned if you wrap in `<p align="left">`.
@@ -119,7 +119,7 @@ Here’s a **setup you can use**:
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjana1279&layout=compact&bg_color=FAF9F6&title_color=000000&text_color=000000" alt="Top Languages" />
-```
+
 
 * Displays your most used languages and percentage.
 
@@ -129,7 +129,6 @@ Here’s a **setup you can use**:
 
 You can place the **Stats, Streak, and Top Languages** cards **horizontally** using an HTML table for better dashboard feel:
 
-```html
 <table>
 <tr>
 <td><img src="https://github-readme-stats.vercel.app/api?username=Sanjana1279&show_icons=true&bg_color=FAF9F6&title_color=000000&text_color=000000&icon_color=8B4513" /></td>
@@ -137,7 +136,7 @@ You can place the **Stats, Streak, and Top Languages** cards **horizontally** us
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjana1279&layout=compact&bg_color=FAF9F6&title_color=000000&text_color=000000" /></td>
 </tr>
 </table>
-```
+
 
 ✅ This makes your profile look **like a dashboard**, with stats, streak, and language usage all visible at a glance.
 
