@@ -27,7 +27,11 @@
 <a href="https://leetcode.com/u/sanjana1279/" target="blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="30" />
 </a>
+<a href="https://www.geeksforgeeks.org/user/sanjanakschandu/" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" height="30" width="40" />
+</a>
 </p>
+
  
 
 ---
