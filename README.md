@@ -1,5 +1,5 @@
 # Hi 👋, I'm Sanjana K S  
-### 💻 Passionate Back-end Developer | Java | Spring Boot | JavaScript  
+### 💻 Passionate Java Full Stack Developer | Java | Spring Boot | JavaScript  | ReacTJs
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sanjana1279&color=8B4513&style=flat)
 
